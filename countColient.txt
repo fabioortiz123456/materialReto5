@@ -1,0 +1,5 @@
+public class ContadorClientes {
+    private Long total;
+    private Cliente client;
+
+generar constructos 
